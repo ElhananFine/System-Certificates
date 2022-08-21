@@ -8,3 +8,7 @@ How to use a script: <br>
 3. Finally, connect your phone to the computer with ADB Debugging mode enabled, and run the script. <br>
 <br>
 Good luck and good day! 
+<br>
+```bash
+python3 installcertificate.py
+```
