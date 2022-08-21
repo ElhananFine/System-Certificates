@@ -9,6 +9,7 @@ How to use a script: <br>
 <br>
 Good luck and good day! 
 <br>
+
 ```bash
 python3 installcertificate.py
 ```
