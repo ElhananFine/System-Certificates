@@ -32,3 +32,8 @@ commands.close()
 #execute the installation
 os.system("adb shell < temp")
 os.remove("temp")
+
+#Optional: Restart the phone:
+#echo "Rebooting device"
+#adb shell "su 0,0 -c reboot"
+
