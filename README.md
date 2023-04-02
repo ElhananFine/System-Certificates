@@ -1,3 +1,7 @@
+*Note: This repository is no longer used, and is not supported in advanced versions of Android.*
+
+
+
 Hello! <br>
 Before we begin, please note that this script is compatible only with phones with Root, (you can check whether the phone has been rooted using the Root Checker app). <br>
 The script converts user-level security credentials to system-level credentials. <br>
